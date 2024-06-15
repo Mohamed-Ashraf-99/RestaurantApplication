@@ -1,0 +1,17 @@
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Infrastructure.deps.json
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Infrastructure.runtimeconfig.json
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Infrastructure.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Infrastructure.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Domain.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurants.Domain.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.csproj.AssemblyReference.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfoInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.AssemblyInfo.cs
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaura.2EEA3570.Up2Date
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\refint\Restaurants.Infrastructure.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.genruntimeconfig.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Infrastructure\obj\Debug\net8.0\ref\Restaurants.Infrastructure.dll

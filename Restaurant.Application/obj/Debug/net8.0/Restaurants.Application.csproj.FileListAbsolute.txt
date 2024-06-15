@@ -1,0 +1,15 @@
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\bin\Debug\net8.0\Restaurants.Application.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\bin\Debug\net8.0\Restaurants.Domain.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\bin\Debug\net8.0\Restaurants.Domain.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Application\obj\Debug\net8.0\Restaura.6AB96A7C.Up2Date

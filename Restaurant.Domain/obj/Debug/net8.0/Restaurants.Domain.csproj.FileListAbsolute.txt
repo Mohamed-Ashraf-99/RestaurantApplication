@@ -1,0 +1,11 @@
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\bin\Debug\net8.0\Restaurants.Domain.deps.json
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\bin\Debug\net8.0\Restaurants.Domain.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\bin\Debug\net8.0\Restaurants.Domain.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.AssemblyInfoInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.AssemblyInfo.cs
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\refint\Restaurants.Domain.dll
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\Restaurants.Domain.pdb
+D:\1-Programming\2-Udemy\21-API\Restaurant.API\Restaurant.Domain\obj\Debug\net8.0\ref\Restaurants.Domain.dll
