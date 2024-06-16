@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GgxMyeGByg6jQ8eRI4n+yTv8Z8y6vfHJeJz5tSf/cWLHtXKXeVwAWijknHqaOcsO8rj/Xk3echkNX6UFbBZ8rA==",
+  "dgSpecHash": "iFbBU2abiUKdMN1TKMUI1h8fpUQZ8dSlTwCEbs+Icn/ZXJLk4ogkj8W/8VTRJzXs5DTwcSBtMANcj9fLJ4R6pQ==",
   "success": true,
-  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj",
+  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

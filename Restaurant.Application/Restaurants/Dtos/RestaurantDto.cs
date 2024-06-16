@@ -27,20 +27,21 @@ namespace Restaurants.Application.Restaurants.Dtos
 
         public List<DishDto> Dishes { get; set; } = new();
 
-        public static RestaurantDto FromEntity(Restaurant? restaurant)
-        {
-            if (restaurant is null)
-                return null;
-            return new RestaurantDto
-            {
-                Id = restaurant.Id,
-                Name = restaurant.Name,
-                Description = restaurant.Description,
-                Category = restaurant.Category,
-                City = restaurant.Address?.City,
-                Street = restaurant.Address?.Street,
-                PostalCode = restaurant.Address?.PostalCode,
-            };
-        }
+        //public static RestaurantDto FromEntity(Restaurant? restaurant)
+        //{
+        //    if (restaurant is null)
+        //        return null;
+        //    return new RestaurantDto
+        //    {
+        //        Id = restaurant.Id,
+        //        Name = restaurant.Name,
+        //        Description = restaurant.Description,
+        //        Category = restaurant.Category,
+        //        City = restaurant.Address?.City,
+        //        Street = restaurant.Address?.Street,
+        //        PostalCode = restaurant.Address?.PostalCode,
+        //        Dishes = restaurant.Dishes.Select(DishDto.FromEntity).ToList(),
+        //    };
+        //}
     }
 }

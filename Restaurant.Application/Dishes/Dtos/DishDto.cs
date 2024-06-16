@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Restaurants.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,18 @@ namespace Restaurants.Application.Dishes.Dtos
         public decimal Price { get; set; }
 
         public int? KiloCalories { get; set; }
+
+        public static DishDto FromEntity(Dish dish)
+        {
+            return new DishDto
+            {
+                ID = dish.ID,
+                Name = dish.Name,
+                Description = dish.Description,
+                Price = dish.Price,
+                KiloCalories = dish.KiloCalories,
+            };
+        }
 
     }
 }

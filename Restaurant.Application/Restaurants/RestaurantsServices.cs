@@ -18,7 +18,7 @@ namespace Restaurants.Application.Restaurants
 
                 var restaurantsDto = restaurants.Select(RestaurantDto.FromEntity);
                
-                return restaurantsDto;
+                return restaurantsDto!;
             }
             catch (NullReferenceException ex)
             {
@@ -50,7 +50,7 @@ namespace Restaurants.Application.Restaurants
                 }
                 var restaurantDto = RestaurantDto.FromEntity(restaurant);
         
-                return restaurantDto;
+                return restaurantDto!;
             }
             catch (NullReferenceException ex)
             {

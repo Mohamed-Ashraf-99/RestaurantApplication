@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj": {}
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj": {
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj",
         "projectName": "Restaurants.Domain",
-        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj",
+        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj": {
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
         "projectName": "Restaurants.Infrastructure",
-        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
+        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj": {
-                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj"
+              "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj": {
+                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj"
               }
             }
           }

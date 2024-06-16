@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\Restaurants.Application.csproj": {}
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\Restaurants.Application.csproj": {}
   },
   "projects": {
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\Restaurants.Application.csproj": {
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\Restaurants.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\Restaurants.Application.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\Restaurants.Application.csproj",
         "projectName": "Restaurants.Application",
-        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\Restaurants.Application.csproj",
+        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\Restaurants.Application.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurant.Domain.csproj": {
-                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurant.Domain.csproj"
+              "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurant.Domain.csproj": {
+                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurant.Domain.csproj"
               },
-              "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj": {
-                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj"
+              "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj": {
+                "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj"
               }
             }
           }
@@ -57,6 +57,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -82,14 +94,79 @@
         }
       }
     },
-    "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj": {
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurant.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj",
-        "projectName": "Restaurants.Domain",
-        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurants.Domain.csproj",
+        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurant.Domain.csproj",
+        "projectName": "Restaurant.Domain",
+        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurant.Domain.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\obj\\",
+        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj",
+        "projectName": "Restaurants.Domain",
+        "projectPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\Restaurants.Domain.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

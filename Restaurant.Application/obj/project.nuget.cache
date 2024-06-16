@@ -1,21 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "kTV8fyEfvQTV91vn8fI0c/SW92AwcPbPvCfZt/E8VefRqtoWxDCvn+eSoghXLXLpCFJx/KhbIRMZe6z23tsljA==",
-  "success": false,
-  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Application\\Restaurants.Application.csproj",
+  "dgSpecHash": "Q55xxP5VN5Vs97nBz5sE9T7ptNvUTGfdqt8BaLSjzh3nsDDgDdnUA3kVO+POycNzzqMJ+QLX2W4E0MW4PsQdWw==",
+  "success": true,
+  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Application\\Restaurants.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurant.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Domain\\Restaurant.Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

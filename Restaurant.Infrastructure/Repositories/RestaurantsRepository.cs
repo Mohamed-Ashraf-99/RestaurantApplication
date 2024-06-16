@@ -20,8 +20,29 @@ namespace Restaurants.Infrastructure.Repositories
 
         public async Task<Restaurant> GetRestaurantByIdAsync(int id)
         {
-            var restaurant = await _context.Restaurants.FindAsync(id);
+            var restaurant = await _context.Restaurants
+                .Include(r => r.Dishes)
+                .FirstOrDefaultAsync(r => r.Id == id);
             return restaurant;
+        }
+
+        public async Task<int> Create(Restaurant restaurant)
+        {
+            if (restaurant is not null)
+                await _context.Restaurants.AddAsync(restaurant);
+            await _context.SaveChangesAsync();
+            return restaurant.Id;
+        }
+
+        public async Task Delete(Restaurant restaurant)
+        {
+            _context.Restaurants.Remove(restaurant);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task SaveChanges()
+        {
+            await _context.SaveChangesAsync();
         }
     }
 }

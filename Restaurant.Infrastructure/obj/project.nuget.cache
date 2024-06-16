@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6FJxxrxG27X47XyLRXE5K96tv8q+fmWf5UQF9XOvKi517Z6oNgAVFptQan1fXNDFZu+kFx262eXNPrdmDmA9VA==",
+  "dgSpecHash": "/JWdWdh32ywV6I5KfgR+sPnumH+SxtBApJDur/ngdyZR82C2kfCPX0st1lAkfqngDflnre4PhjjVny4zgSHltQ==",
   "success": true,
-  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\GitHub\\RestaurantApplication\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
+  "projectFilePath": "D:\\1-Programming\\2-Udemy\\21-API\\Restaurant.API\\Restaurant.Infrastructure\\Restaurants.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
